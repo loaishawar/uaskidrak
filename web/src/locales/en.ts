@@ -47,7 +47,7 @@ export default {
       continue: 'Continue',
       title: 'ابدأ في بناء مساعديك الأذكياء',
       description:
-        'Sign up to Idrak and transform your business with intelligent assistants. Explore RAG technology for free and create AI-powered knowledge bases today.',
+        'Sign up for free to explore top RAG technology. Create knowledge bases and AIs to empower your business.',
       review: 'from 500+ reviews',
     },
     header: {
