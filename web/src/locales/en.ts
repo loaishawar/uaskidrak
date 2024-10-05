@@ -45,9 +45,9 @@ export default {
       nicknamePlaceholder: 'Please input nickname',
       register: 'Create an account',
       continue: 'Continue',
-      title: 'Start building your smart assistants.',
+      title: 'ابدأ في بناء مساعديك الأذكياء',
       description:
-        'Sign up for free to explore top RAG technology. Create knowledge bases and AIs to empower your business.',
+        'Sign up to Idrak and transform your business with intelligent assistants. Explore RAG technology for free and create AI-powered knowledge bases today.',
       review: 'from 500+ reviews',
     },
     header: {
